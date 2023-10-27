@@ -9,7 +9,6 @@ int main(){
 	cout<<"SELAMAT DATANG"<<endl;
 	cout<<"==============================================================================="<<endl;
 	cout<<"				SEWA LAPTOP"<<endl;
-	cout<<"				KELOMPOK 2"<<endl;
 	cout<<"==============================================================================="<<endl;
 	cout<<endl;
 	cout<<"			Log in"<<endl;
@@ -91,7 +90,6 @@ int main(){
 	menu2:
 	cout<<"==============================================================================="<<endl;
 	cout<<"                           TRANSAKSI SEWA LAPTOP"<<endl;
-	cout<<"                                 KELOMPOK 2"<<endl;
 	cout<<"==============================================================================="<<endl;
 	cout<<endl;
 	cout<<"Masukan lama waktu peminjaman (Per HARI) : "; cin>>waktu;
@@ -156,7 +154,6 @@ int main(){
 	menu3:
 	cout<<"==============================================================================="<<endl;
 	cout<<"                            TRANSAKSI PENGEMBALIAN LAPTOP"<<endl;
-	cout<<"                                     KELOMPOK 2"<<endl;
 	cout<<"==============================================================================="<<endl;
 	cout<<endl;
 	cout<<"- Entry Data Pelanggan -"<<endl;
