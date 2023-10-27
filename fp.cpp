@@ -31,7 +31,7 @@ int main(){
 	cout<<"4. Log out"<<endl;
 	cout<<"==============================================================================="<<endl;
 	cout<<"Masukan pilihan anda : "; cin>>pilihan;
-	system("cls");
+	system("cls"); 
 	
 	switch(pilihan){
 		
